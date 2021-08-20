@@ -33,3 +33,7 @@ Equal amount of monthly installments with a same monthly IRR makes a geometric s
 a_0 * r^{n-1} + \frac{a_1 * (1 - r^n)}{1 - r} = b
 ```
 
+### Numerical solution for the high-order equation
+
+Newton-Raphson's method in solving the above high-order equation for the monthly IRR:
+
